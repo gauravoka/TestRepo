@@ -35,7 +35,7 @@
 
            <hr>
            <p>
-              Thank you for you interest in ELCORE Solutions.<br/> For any questions or comments,<br/>								
+              Thanks for you interest in ELCORE Solutions.<br/> For any questions or comments,<br/>								
               please feel free to contact us on the information mentioned below.<br/>								
               We look forward to hearing from you soon.								
 
