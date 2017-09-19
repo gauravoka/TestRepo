@@ -77,7 +77,8 @@
 			</p>
            <p>
                Our team members are focused, developed, and proficient on the most advanced technologies,
-                methods, and processes in the engineering design, construction, & maintenance sector.    											
+                methods, and processes in the engineering design, construction, & maintenance sector.
+                   thank you    											
 		</p>
                
                </div>
