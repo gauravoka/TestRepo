@@ -73,7 +73,9 @@
                We pride ourselves in striving to consistently supersede the expectation of all our
                 valued customers by performing with un-compromising emphasis on safety, efficiency and accuracy. 
                We are committed to continuous improvement, and clearly understand the importance of training.
-                And we always keep our team ready with the trainings in advancing technologies as to apply to our projects.                                                                                                                                                                                                        											
+                And we always keep our team ready with the trainings in advancing technologies as to apply to our projects.                   thank you very much
+                  thank you
+                  thank you                                                                                                                                                                  											
 			</p>
            <p>
                Our team members are focused, developed, and proficient on the most advanced technologies,
